@@ -52,6 +52,7 @@
 | [online-rl.md](start_pack/online-rl.md) | Три типа датасетов (rollout queries, reward train, reward test), формат, хранение | Active |
 | [datasets.md](start_pack/datasets.md) | Per-checker статусы: MD, Русификатор, Эквивалентность, Vikacheck, Ты/Вы, Безопасность, Смена языков, Арена + LoRA | Active |
 | [reward-lora.md](start_pack/reward-lora.md) | Форматы reward/LoRA, статусы всех чекалок, задачи по дообору данных | Active |
+| [detailed_plan/09_reward_collection_guide.md](detailed_plan/09_reward_collection_guide.md) | Гайд: протокол сбора собственного reward (7 шагов + gate + contamination) | Reference |
 | [lora-tests.md](start_pack/lora-tests.md) | Результаты тестов LoRA (Русификатор, MD, Смена языков, Ты/Вы) | Partial |
 | [how-to-shoot.md](start_pack/how-to-shoot.md) | Инструкция по запуску LoRA через API | Reference |
 

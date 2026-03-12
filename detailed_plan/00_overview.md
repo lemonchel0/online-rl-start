@@ -18,6 +18,7 @@
 | [06_dasha_platform.md](06_dasha_platform.md) | Platform: B2C функции + reward | Даша | 4 |
 | [07_dima_infra.md](07_dima_infra.md) | Infra: хранение, LoRA, checks | Дима | 3 |
 | [08_ml.md](08_ml.md) | ML: RL pipeline, эксперименты, 120B | ML | 7+ |
+| [09_reward_collection_guide.md](09_reward_collection_guide.md) | Гайд: протокол сбора собственного reward | — | Справочник |
 
 **Всего:** 23 data + 7+ ML = 30+ человек.
 
